@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main pink heart -->
+  <path
+    d="M50 35C50 35 45 25 35 25C25 25 20 35 20 35C20 35 15 45 25 60C35 75 50 80 50 80"
+    fill="#FF7BAC"
+  />
+  <path
+    d="M50 35C50 35 55 25 65 25C75 25 80 35 80 35C80 35 85 45 75 60C65 75 50 80 50 80"
+    fill="#FF7BAC"
+  />
+  
+  <!-- Lighter pink heart -->
+  <path
+    d="M65 45C65 45 62 40 57 40C52 40 50 45 50 45C50 45 47.5 50 52 57.5C56.5 65 65 67.5 65 67.5"
+    fill="#FFB7D5"
+  />
+  <path
+    d="M65 45C65 45 68 40 73 40C78 40 80 45 80 45C80 45 82.5 50 78 57.5C73.5 65 65 67.5 65 67.5"
+    fill="#FFB7D5"
+  />
+</svg>
